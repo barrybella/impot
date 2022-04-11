@@ -1,0 +1,20 @@
+HTTrack3.49-2 launched on Thu, 25 Jul 2019 18:40:24 at http://www.themeon.net/nifty/v2.9.1/index.html
+(winhttrack http://www.themeon.net/nifty/v2.9.1/index.html -O "/root/websites/nifty" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:07:22	Error: 	"Not Found" (404) at link www.themeon.net/nifty/v2.9.1/plugins/chosen/chosen-sprite.png (from www.themeon.net/nifty/v2.9.1/plugins/chosen/chosen.min.css)
+19:07:22	Error: 	"Not Found" (404) at link www.themeon.net/nifty/v2.9.1/plugins/chosen/chosen-sprite@2x.png (from www.themeon.net/nifty/v2.9.1/plugins/chosen/chosen.min.css)
+19:07:22	Error: 	"Not Found" (404) at link www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/images/ui-icons_444444_256x240.png (from www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/jquery-ui.min.css)
+19:07:22	Error: 	"Not Found" (404) at link www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/images/ui-icons_555555_256x240.png (from www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/jquery-ui.min.css)
+19:07:22	Error: 	"Not Found" (404) at link www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/images/ui-icons_ffffff_256x240.png (from www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/jquery-ui.min.css)
+19:07:22	Error: 	"Not Found" (404) at link www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/images/ui-icons_777620_256x240.png (from www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/jquery-ui.min.css)
+19:07:22	Error: 	"Not Found" (404) at link www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/images/ui-icons_cc0000_256x240.png (from www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/jquery-ui.min.css)
+19:07:22	Error: 	"Not Found" (404) at link www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/images/ui-icons_777777_256x240.png (from www.themeon.net/nifty/v2.9.1/plugins/jquery-ui/jquery-ui.min.css)
+19:09:24	Warning: 	Retry after error -2 (Receive Time Out) at link www.themeon.net/nifty/v2.9.1/plugins/weather-icons/font/weathericons-regular-webfont.svg (from www.themeon.net/nifty/v2.9.1/plugins/weather-icons/css/weather-icons.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 5 seconds : 1029 links scanned, 1019 files written (34762275 bytes overall) [19618579 bytes received at 11242 bytes/sec], 20716322 bytes transferred using HTTP compression in 762 files, ratio 25%, 9.0 requests per connection
+(8 errors, 1 warnings, 0 messages)
